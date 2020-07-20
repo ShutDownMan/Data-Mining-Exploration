@@ -1,2 +1,3 @@
-# Data-Mining-Exploration
+# Data Mining Exploration
+
 Exploring data mining algorithms
