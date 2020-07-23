@@ -43,7 +43,7 @@ Y = data['gpa'].values;
 
 Xtrain, Xtest, Ytrain, Ytest = train_test_split(X, Y, test_size=0.25);
 
-print('K\tTrain\tTest');
+#print('K\tTrain\tTest');
 evalArray = [];
 for k in range(2, 15):
 	model = KNeighborsClassifier(n_neighbors=k);
