@@ -1,4 +1,5 @@
 data
+pickle
 .ipynb_checkpoints
 .env
 out.txt
